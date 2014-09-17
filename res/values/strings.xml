@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exela Health Monitor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="heartrate">Heart Rate</string>
+    <string name="respiratory">Respiratory</string>
+    <string name="ecg">Electrocardiography</string>
+    <string name="options">Please choose your options</string>
+    <string name="title_activity_heart_rate">HeartRate</string>
+    <string name="title_activity_respiratory">Respiratory</string>
+    <string name="title_activity_ecg">ECG</string>
+
+</resources>
